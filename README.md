@@ -4,6 +4,9 @@ Dobble Generator is a java application creating cards for the Dobble game. The u
 
 <img src="https://i.imgur.com/XcR7H6z.jpg" width="300" height="300" />
 
+## Release
+https://github.com/Etiouse/DobbleGenerator/releases/tag/v1.0
+
 ## Features 
 
 * Import images from you computer
