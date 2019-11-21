@@ -38,7 +38,7 @@ public class Frame extends JFrame
 		mouse = new Mouse();
 		
 		// Frame settings
-		this.setSize(1200, 900);
+		this.setSize(1024, 768);
 		this.setTitle("Dobble Generator");
 		this.setLocationRelativeTo(this);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

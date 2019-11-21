@@ -41,7 +41,7 @@ public class FrameOptions extends JFrame
 		this.setSize(1180, 820);
 		this.setTitle("Paramètres d'impression");
 		this.setLocationRelativeTo(this);
-		this.setMinimumSize(new Dimension(1180, 600));
+		this.setMinimumSize(new Dimension(1180, 820));
 		this.setIconImage(new ImageIcon(Main.class.getResource("/pictures/icon.png")).getImage());
 
 		// Panel
