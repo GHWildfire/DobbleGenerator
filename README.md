@@ -23,3 +23,8 @@ https://github.com/Etiouse/DobbleGenerator/releases/tag/v1.0
 ## Examples of generated cards
 
 <img src="https://i.imgur.com/iFLlDGX.png" width="240" height="300" /> <img src="https://i.imgur.com/g28PJvm.png" width="240" height="300" /> <img src="https://i.imgur.com/KXzbEwT.png" width="240" height="300" />
+
+## License
+[BSD 3-Clause "New" or "Revised" License](https://github.com/Etiouse/DobbleGenerator/blob/master/LICENSE)
+
+A permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the project or its contributors to promote derived products without written consent.
